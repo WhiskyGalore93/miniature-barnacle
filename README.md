@@ -1,2 +1,2 @@
-# miniature-barnacle
+# miniature-barnacle2
 GitHub practice
